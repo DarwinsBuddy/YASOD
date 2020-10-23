@@ -1,0 +1,4 @@
+kaggle
+jupyterlab
+notebook
+pandas
