@@ -25,6 +25,10 @@ Possible installation steps
 2. Run `$ pip install -r requirements.txt`
 3. Launch `$ juypter notebook`
 
+## Download data
+
+1. Download and extract data from https://www.kaggle.com/c/avazu-ctr-prediction
+2. Ensure that file `train` is stored in `<notebook-path>/data/train`
 
 ## Legal
 
