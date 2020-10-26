@@ -32,7 +32,7 @@ Possible installation steps
 
 ## Legal
 
-For the sake of convinience the data used in this example has been uploaded to the repository, although it's probably for the better (at least in a production environment) if it's loaded externally.
+For the sake of convinience part of the data used in this example has been uploaded to the repository, although it's probably for the better (at least in a production environment) if it's loaded externally.
 
 > Data source (train, test)
 > https://www.kaggle.com/c/avazu-ctr-prediction
